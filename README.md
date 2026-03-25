@@ -16,11 +16,9 @@
 
 ## ✅ Overview
 
-**SynSym** is an LLM-based synthetic data generation framework for constructing generalizable datasets for psychiatric symptom identification. 
-Given only a list of symptom classes and their brief descriptions, SynSym automatically produces diverse, clinically relevant linguistic expressions that reflect the presence of each symptom.
+**SynSym** is an LLM-based synthetic data generation framework for constructing **generalizable datasets for psychiatric symptom identification**. Given only a list of symptom classes and their brief descriptions, SynSym automatically produces **diverse, clinically relevant linguistic expressions** that reflect the presence of each symptom.
 
-Psychiatric symptom identification on social media remains challenging due to the difficulty of constructing high-quality training datasets: expert annotation is costly, labeling protocols lack standardization, and most existing datasets are collected from a single platform, limiting model generalizability. 
-SynSym addresses these limitations by leveraging LLMs to generate synthetic training data that is both clinically valid and stylistically diverse.
+Psychiatric symptom identification on social media remains challenging due to the difficulty of constructing high-quality training datasets: **expert annotation is costly**, **labeling protocols lack standardization**, and **most existing datasets are collected from a single platform**, limiting model generalizability. SynSym addresses these limitations by leveraging LLMs to generate synthetic training data that is both **clinically valid** and **stylistically diverse**.
 
 
 <p align="center">
