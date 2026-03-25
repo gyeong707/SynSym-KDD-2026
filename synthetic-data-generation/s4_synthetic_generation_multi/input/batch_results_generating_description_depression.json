@@ -1,0 +1,340 @@
+{
+    "Anger_Irritability": {
+        "Descriptions": [
+            [
+                "Feeling emotionally upset when reminded of the traumatic event",
+                "Feeling irritable or having fits of anger",
+                "Irritable behavior and angry outbursts",
+                "Exhibiting increased irritability",
+                "Verbal aggression toward people",
+                "Verbal aggression toward objects",
+                "Physical aggression toward people",
+                "Physical aggression toward objects",
+                "Experiencing frequent mood swings",
+                "Having a low tolerance for frustration",
+                "Reacting disproportionately to minor annoyances",
+                "Feeling a constant sense of agitation",
+                "Experiencing difficulty in calming down after being upset",
+                "Feeling a persistent sense of restlessness",
+                "Having a short temper",
+                "Experiencing tension in social interactions",
+                "Feeling easily provoked or triggered",
+                "Experiencing a sense of hostility towards others"
+            ]
+        ]
+    },
+    "Decreased_energy_tiredness_fatigue": {
+        "Descriptions": [
+            [
+                "Being easily fatigued.",
+                "Feeling a persistent lack of energy.",
+                "Experiencing a constant sense of tiredness.",
+                "Feeling exhausted even after a full night's sleep.",
+                "Struggling to get out of bed in the morning.",
+                "Feeling drained after minimal physical or mental activity.",
+                "Lacking the energy to engage in daily activities.",
+                "Experiencing a noticeable decrease in productivity.",
+                "Experiencing sustained fatigue without physical exertion.",
+                "Feeling like every task requires significant effort.",
+                "Having difficulty completing tasks due to low energy.",
+                "Experiencing a sense of heaviness in the body.",
+                "Feeling like energy levels are never replenished.",
+                "Feeling physically and mentally sluggish."
+            ]
+        ]
+    },
+    "Depressed_Mood": {
+        "Descriptions": [
+            [
+                "Appears tearful",
+                "Experiencing frequent crying spells",
+                "Distressing sense of incompleteness or uneasiness",
+                "Persistent feelings of sadness",
+                "Feeling empty",
+                "Having no feelings",
+                "Feeling emotionally numb",
+                "Experiencing a pervasive sense of gloom",
+                "Feeling a persistent low mood",
+                "Feeling a sense of despair",
+                "Feeling a sense of emotional heaviness",
+                "Feeling a persistent sense of melancholy"
+            ]
+        ]
+    },
+    "Genitourinary_symptoms": {
+        "Descriptions": [
+            [
+                "Experiencing increased frequency of micturition",
+                "Feeling an urgent need to urinate",
+                "Development of frigidity",
+                "Experiencing amenorrhea",
+                "Experiencing impotence",
+                "Experiencing loss of libido",
+                "Experiencing menorrhagia",
+                "Experiencing menstrual irregularity",
+                "Experiencing premature ejaculation",
+                "Having difficulty initiating urination",
+                "Experiencing painful urination",
+                "Experiencing nocturia (waking up at night to urinate)",
+                "Experiencing urinary incontinence",
+                "Experiencing a weak urine stream",
+                "Experiencing a sensation of incomplete bladder emptying",
+                "Experiencing dyspareunia (painful intercourse)",
+                "Experiencing decreased sexual arousal",
+                "Experiencing delayed ejaculation",
+                "Experiencing anorgasmia (difficulty reaching orgasm)",
+                "Experiencing dysmenorrhea (painful menstruation)"
+            ]
+        ]
+    },
+    "Hyperactivity_agitation": {
+        "Descriptions": [
+            [
+                "Is often 'on the go,' acting as if 'driven by a motor'",
+                "Often fidgets with or taps hands or feet or squirms in seat",
+                "Often leaves seat in situations when remaining seated is expected",
+                "Often runs about or climbs in situations where it is inappropriate",
+                "Often unable to play or engage in leisure activities quietly",
+                "Feels restless or fidgety",
+                "Has difficulty unwinding and relaxing when having time to oneself",
+                "Engages in purposeless activity, like pacing or holding multiple conversations",
+                "Exhibits inability to sit still, pacing, handwringing",
+                "Pulls or rubs the skin, clothing, or other objects",
+                "Frequently interrupts others during conversations",
+                "Talks excessively or rapidly, often without pause",
+                "Displays impulsive behavior, such as interrupting or intruding on others",
+                "Shows impatience in waiting for turns or in line",
+                "Experiences a constant need to be moving or doing something",
+                "Demonstrates difficulty in engaging in tasks that require sustained mental effort",
+                "Exhibits a tendency to start multiple tasks without completing them",
+                "Shows signs of restlessness even in calm environments",
+                "Has a hard time sitting through meetings or long discussions",
+                "Frequently changes positions or shifts in seat"
+            ]
+        ]
+    },
+    "Inattention": {
+        "Descriptions": [
+            [
+                "Difficulty in holding a rational conversation",
+                "Difficulty attending to instructions",
+                "Diminished ability to think",
+                "Diminished ability to concentrate",
+                "Avoids tasks that require sustained mental effort",
+                "Dislikes tasks that require sustained mental effort",
+                "Reluctant to engage in tasks that require sustained mental effort",
+                "Does not follow through on instructions",
+                "Fails to finish schoolwork",
+                "Fails to finish chores",
+                "Fails to finish duties in the workplace",
+                "Does not seem to listen when spoken to directly",
+                "Difficulty organizing tasks",
+                "Difficulty organizing activities",
+                "Loses things necessary for tasks",
+                "Loses things necessary for activities",
+                "Problems with concentration",
+                "Fails to give close attention to details",
+                "Makes careless mistakes in schoolwork",
+                "Makes careless mistakes at work",
+                "Difficulty sustaining attention in tasks",
+                "Difficulty sustaining attention in play activities",
+                "Trouble wrapping up the final details of a project",
+                "Misplaces things at home",
+                "Misplaces things at work",
+                "Difficulty finding things at home",
+                "Difficulty finding things at work",
+                "Easily distracted by extraneous stimuli"
+            ]
+        ]
+    },
+    "Indecisiveness": {
+        "Descriptions": [
+            [
+                "Experiencing difficulty in making decisions",
+                "Feeling overwhelmed by choices",
+                "Procrastinating on decision-making tasks",
+                "Second-guessing decisions after they are made",
+                "Seeking excessive reassurance from others before making decisions",
+                "Avoiding decision-making altogether",
+                "Feeling anxious or stressed when faced with decisions",
+                "Taking an unusually long time to make simple decisions",
+                "Frequently changing one's mind about decisions",
+                "Feeling paralyzed by the fear of making the wrong choice",
+                "Needing to weigh pros and cons excessively before deciding",
+                "Experiencing mental fatigue from decision-making processes",
+                "Feeling a lack of confidence in one's ability to make decisions",
+                "Relying heavily on others to make decisions"
+            ]
+        ]
+    },
+    "Suicidal_ideas": {
+        "Descriptions": [
+            [
+                "Having a specific plan for committing suicide",
+                "Making a suicide attempt",
+                "Experiencing fear of dying",
+                "Having recurrent suicidal ideation without a specific plan",
+                "Having recurrent thoughts of death",
+                "Thinking about methods to end one's life",
+                "Feeling overwhelmed by thoughts of self-harm",
+                "Imagining scenarios of one's own death",
+                "Experiencing intrusive thoughts about dying",
+                "Feeling hopeless and considering suicide as an option",
+                "Having persistent thoughts about not wanting to live",
+                "Planning the logistics of a suicide attempt",
+                "Writing a suicide note or farewell message",
+                "Researching ways to die",
+                "Feeling detached and considering death as a relief",
+                "Expressing a desire to escape life through death",
+                "Having fleeting thoughts of self-inflicted harm",
+                "Feeling burdened by life and contemplating ending it",
+                "Experiencing a preoccupation with death-related themes",
+                "Feeling trapped and seeing suicide as the only way out"
+            ]
+        ]
+    },
+    "Worthlessness_and_guilty": {
+        "Descriptions": [
+            [
+                "Feeling disgusted with oneself, depressed, or very guilty after over-eating",
+                "Feeling disappointed in oneself",
+                "Criticizing oneself for all of one's faults",
+                "Expecting to be punished",
+                "Feeling guilty over many things",
+                "Holding persistent and exaggerated negative beliefs or expectations about oneself, others, or the world",
+                "Having persistent, distorted cognitions about the cause or consequences of a traumatic event that leads to self-blame or blaming others",
+                "Experiencing guilty preoccupations or ruminations over minor past failings",
+                "Misinterpreting neutral or trivial day-to-day events as evidence of personal defects",
+                "Having an exaggerated sense of responsibility for untoward events",
+                "Experiencing self-reproach or guilt about being sick",
+                "Having unrealistic negative evaluations of one\u2019s worth",
+                "Experiencing low self-esteem",
+                "Feeling low self-worth",
+                "Engaging in self-blame"
+            ]
+        ]
+    },
+    "Loss_of_interest_or_motivation": {
+        "Descriptions": [
+            [
+                "Feelings of detachment or estrangement from others.",
+                "I don't enjoy things as much as I used to.",
+                "I have lost my interest in other people or things.",
+                "Markedly diminished interest or participation in significant activities.",
+                "Persistent inability to experience positive emotions (happiness, satisfaction, or loving feelings).",
+                "Lose motivation to do things.",
+                "Social withdrawal or neglect of pleasurable avocations.",
+                "Avoiding social gatherings or events.",
+                "Lack of enthusiasm for hobbies or pastimes once enjoyed.",
+                "Feeling indifferent towards achievements or successes.",
+                "Reduced engagement in work or academic responsibilities.",
+                "Neglecting personal care or hygiene due to lack of motivation.",
+                "Feeling emotionally numb or disconnected from surroundings.",
+                "Avoiding contact with friends or family members.",
+                "Experiencing a sense of emptiness or void.",
+                "Difficulty in initiating or completing tasks.",
+                "Loss of interest in maintaining relationships.",
+                "Reduced desire to pursue personal goals or ambitions."
+            ]
+        ]
+    },
+    "Pessimism": {
+        "Descriptions": [
+            [
+                "Feeling as if my future hopes or plans will not come true",
+                "Discouraged about future",
+                "Believing that efforts will not lead to success",
+                "Expecting negative outcomes in most situations",
+                "Assuming that setbacks are permanent and pervasive",
+                "Feeling hopeless about personal growth or improvement",
+                "Doubting the possibility of achieving personal goals",
+                "Anticipating failure in upcoming tasks or projects",
+                "Viewing the future with a sense of dread or fear",
+                "Believing that positive changes are unlikely to occur",
+                "Feeling resigned to a negative or unchanging future",
+                "Assuming that others will not support or help in future endeavors",
+                "Expecting that personal relationships will deteriorate over time",
+                "Believing that current struggles will never improve",
+                "Feeling that life lacks purpose or direction due to anticipated failures"
+            ]
+        ]
+    },
+    "Poor_memory": {
+        "Descriptions": [
+            [
+                "Inability to remember an important aspect of the traumatic event",
+                "Complaining of memory difficulties",
+                "Difficulty remembering daily events",
+                "Mind going blank",
+                "Often forgetful in daily activities",
+                "Poor memory",
+                "Struggling to recall specific details of conversations",
+                "Frequently misplacing personal items",
+                "Forgetting appointments or scheduled tasks",
+                "Difficulty recalling names of acquaintances or colleagues",
+                "Inability to remember instructions or directions",
+                "Forgetting to complete routine tasks, such as paying bills",
+                "Trouble recalling recent events or experiences",
+                "Difficulty retaining new information",
+                "Experiencing lapses in memory during stressful situations"
+            ]
+        ]
+    },
+    "Sleep_disturbance": {
+        "Descriptions": [
+            [
+                "I sleep a lot less than usual",
+                "Initial insomnia",
+                "Decreased need for sleep",
+                "Difficulty falling asleep",
+                "Difficulty staying asleep",
+                "Restless sleep",
+                "Restless, unsatisfying sleep",
+                "Difficulty sleeping",
+                "Going for days without sleep, yet not feeling tired",
+                "Insomnia",
+                "Middle insomnia",
+                "Nightmares",
+                "Nocturnal panic attacks",
+                "Prolonged sleep episodes at night",
+                "Increased daytime sleep",
+                "Sleeping excessively",
+                "Terminal insomnia",
+                "Waking up frequently during the night",
+                "Waking up too early and unable to fall back asleep",
+                "Feeling unrefreshed after a full night's sleep",
+                "Experiencing racing thoughts that prevent sleep",
+                "Feeling anxious or worried at bedtime",
+                "Experiencing physical discomfort or pain that disrupts sleep",
+                "Having irregular sleep patterns",
+                "Experiencing sleep paralysis",
+                "Feeling drowsy or fatigued during the day despite adequate sleep"
+            ]
+        ]
+    },
+    "Weight_and_appetite_change": {
+        "Descriptions": [
+            [
+                "Eating large amounts of food when not feeling physically hungry",
+                "Eating much more rapidly than normal",
+                "Eating until feeling uncomfortably full",
+                "Appetite is much less than before",
+                "Recurrent episodes of binge eating",
+                "Restriction of energy intake, leading to a significantly low body weight",
+                "Significant weight loss",
+                "Eating more and craving specific foods, such as sweets or other carbohydrates",
+                "Feeling unable to stop eating or control what or how much is being eaten",
+                "Feeling that an unusually large amount of food has been consumed compared to others",
+                "Forcing oneself to eat despite lack of appetite",
+                "Gaining weight",
+                "Experiencing a lack of interest in food",
+                "Avoiding meals or skipping meals intentionally",
+                "Experiencing physical discomfort or pain due to overeating",
+                "Feeling a sense of loss of control over eating habits",
+                "Experiencing fluctuations in weight over a short period",
+                "Feeling anxious or stressed about eating or food choices",
+                "Engaging in secretive eating behaviors to hide eating habits from others"
+            ]
+        ]
+    }
+}

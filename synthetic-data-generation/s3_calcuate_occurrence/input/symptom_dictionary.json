@@ -1,0 +1,16 @@
+{
+    "Anger_Irritability": 0,
+    "Decreased_energy_tiredness_fatigue": 1,
+    "Depressed_Mood": 2,
+    "Genitourinary_symptoms": 3,
+    "Hyperactivity_agitation": 4,
+    "Inattention": 5,
+    "Indecisiveness": 6,
+    "Suicidal_ideas": 7,
+    "Worthlessness_and_guilty": 8,
+    "Loss_of_interest_or_motivation": 9,
+    "Pessimism": 10,
+    "Poor_memory": 11,
+    "Sleep_disturbance": 12,
+    "Weight_and_appetite_change": 13
+}

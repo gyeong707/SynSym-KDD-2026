@@ -1,0 +1,70 @@
+{
+    "info": {
+        "session": "MultiLabelClassification",
+        "model": "mentalbert",
+        "data": "Synth/Primate",
+        "option": "backtrans/wo_real/ckp_fold_1",
+        "fold": -1,
+        "seed": 42,
+        "mode": "train"
+    },
+
+    "device": "gpu",
+    "n_gpu": 2,
+    "eval": "test",
+
+    "arch": {
+        "type": "BertMultiLabelClassification",
+        "args": {
+            "model_type": "mental/mental-bert-base-uncased",
+            "num_labels": -1
+        }
+    },
+
+    "resume": "",
+
+    "data_loader": {
+        "type": "SymptomDataset",
+        "max_length": 512,
+        "data_dir": "./data/Primate/depression/all.csv",
+        "test_dir": "./data/Primate/depression/test.csv",
+        "dict_dir": "./data/Primate/depression/symptom_dictionary.json",
+        "label_cols": "label",
+        "text_cols": "post",
+        "batch_size": 64
+    },
+
+    "optimizer": {
+        "type": "AdamW",
+        "args":{
+            "lr": 2e-5,
+            "eps": 1e-08
+        }
+    },
+
+    "loss": "bce_with_logits",
+
+    "metrics": {
+        "calculator": [
+        "accuracy", "precision", "recall", "f1score"
+    ],
+        "threshold": 0.5,
+        "target_name": []
+},
+
+    "lr_scheduler": {
+        "use": true,
+        "warmup_proportion": 0.1
+    },
+
+    "trainer": {
+        "epochs": 10,
+        "save_dir": "saved/",
+        "save_period": 5,
+        "verbosity": 2,
+        "monitor": "min val_loss",
+        "early_stop": 3,
+        "tensorboard": false
+    }
+
+}

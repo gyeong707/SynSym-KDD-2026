@@ -1,0 +1,44 @@
+{
+    "Anger_Irritability": [
+        "Emotional dysregulation characterized by heightened irritability, angry outbursts, or aggression triggered by internal distress or external reminders of trauma."
+    ],
+    "Decreased_energy_tiredness_fatigue": [
+        "Persistent physical and mental exhaustion that reduces functional capacity, often occurring without adequate explanation from physical activity."
+    ],
+    "Depressed_Mood": [
+        "Pervasive negative affect including sadness, emptiness, hopelessness, or emotional numbing that interferes with daily functioning."
+    ],
+    "Genitourinary_symptoms": [
+        "Physical symptoms affecting the urinary and reproductive systems, including changes in sexual function, menstrual irregularities, and urinary urgency."
+    ],
+    "Hyperactivity_agitation": [
+        "Excessive motor activity or inner restlessness manifesting as fidgeting, inability to remain still, or purposeless physical movement."
+    ],
+    "Inattention": [
+        "Difficulty sustaining focus, organizing tasks, or following through on instructions, often accompanied by forgetfulness and distractibility."
+    ],
+    "Indecisiveness": [
+        "Reduced ability to make decisions compared to one's usual baseline, reflecting impaired executive functioning or low self-confidence."
+    ],
+    "Suicidal_ideas": [
+        "Recurrent thoughts of death or self-harm, ranging from passive ideation to active planning or attempts."
+    ],
+    "Worthlessness_and_guilty": [
+        "Negative self-evaluations including excessive guilt, self-blame, and distorted beliefs about one's own responsibility or personal inadequacy."
+    ],
+    "Loss_of_interest_or_motivation": [
+        "Markedly diminished interest or pleasure in previously enjoyed activities, often accompanied by social withdrawal and emotional detachment."
+    ],
+    "Pessimism": [
+        "Pervasive negative expectations about the future, including hopelessness regarding one's goals, plans, or circumstances."
+    ],
+    "Poor_memory": [
+        "Subjective or objective impairment in encoding, retaining, or retrieving information, including both everyday forgetfulness and trauma-related amnesia."
+    ],
+    "Sleep_disturbance": [
+        "Disruptions in sleep quantity or quality, encompassing insomnia, hypersomnia, nightmares, and non-restorative sleep patterns."
+    ],
+    "Weight_and_appetite_change": [
+        "Significant alterations in eating behavior or body weight, including appetite loss, binge eating, food restriction, or unintended weight changes."
+    ]
+}

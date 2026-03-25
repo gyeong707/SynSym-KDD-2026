@@ -1,0 +1,67 @@
+{
+    "info": {
+        "session": "MultiLabelClassification",
+        "model": "mentalbert",
+        "data": "Synth",
+        "option": "dsm5/default",
+        "fold": -1,
+        "mode": "pretrain"
+    },
+
+    "device": "gpu",
+    "n_gpu": 2,
+    "eval": "test",
+
+    "arch": {
+        "type": "BertMultiLabelClassification",
+        "args": {
+            "model_type": "mental/mental-bert-base-uncased",
+            "num_labels": -1
+        }
+    },
+
+    "resume": "",
+
+    "data_loader": {
+        "type": "SymptomDataset",
+        "max_length": 512,
+        "data_dir": "./data/Synth/synth_all_dsm5.csv",
+        "dict_dir": "./data/Synth/symptom_dictionary_dsm5.json",
+        "label_cols": "label",
+        "text_cols": "post",
+        "batch_size": 64
+    },
+
+    "optimizer": {
+        "type": "AdamW",
+        "args":{
+            "lr": 5e-5
+        }
+    },
+
+    "loss": "bce_with_logits",
+
+    "metrics": {
+        "calculator": [
+        "accuracy", "precision", "recall", "f1score"
+    ],
+        "threshold": 0.5,
+        "target_name": []
+},
+
+    "lr_scheduler": {
+        "use": true,
+        "warmup_proportion": 0.1
+    },
+
+    "trainer": {
+        "epochs": 30,
+        "save_dir": "saved/",
+        "save_period": 5,
+        "verbosity": 2,
+        "monitor": "min val_loss",
+        "early_stop": 3,
+        "tensorboard": false
+    }
+
+}
