@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Checkpoints & logs
+*.pth
+*.pt
+saved/
+*.log
+
+# Data & outputs (uncomment if not sharing)
+# data/*.csv
+# data/*/
+result/
+output/
+*.jsonl
+
+# Backup & trash
+backup/
+trash/
+*_backup*
+
+# IDE
+.idea/
+.vscode/
+*.ipynb_checkpoints/
+
+# Environment
+.env
+.env.local
+*.key
+OPENAI_API_KEY
+
+# OS
+.DS_Store
+Thumbs.db
