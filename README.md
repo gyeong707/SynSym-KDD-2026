@@ -1,6 +1,6 @@
 <div align="center">
 
-# SynSym: A Synthetic Data Generation Framework for Psychiatric Symptom Identification
+# SynSym: A Synthetic Data Generation Framework for Psychiatric Symptom Identification (KDD, 2026)
 
 [![KDD](https://img.shields.io/badge/KDD-2026-blue.svg)](https://kdd.org/kdd2026/)
 [![arXiv](https://img.shields.io/badge/arXiv-TODO-b31b1b.svg)](https://arxiv.org/abs/TODO)
@@ -13,6 +13,10 @@
 </div>
 
 ---
+
+## 🎉 SynSym has been accepted to **KDD 2026** (Dataset and Benchmark Track)!
+
+
 
 ## ✅ Overview
 
